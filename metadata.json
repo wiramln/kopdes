@@ -1,0 +1,6 @@
+{
+  "name": "Kopdes Mart 3D",
+  "description": "Game simulasi web 3D Koperasi Desa Merah Putih: ambil sembako dan produk UMKM dari rak menuju kasir, lalu selesaikan transaksi pindai dan hitung belanjaan warga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
